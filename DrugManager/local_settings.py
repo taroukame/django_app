@@ -1,0 +1,1 @@
+SECRET_KEY = '&_+wub%77ecn1bqt#=2$%$(9k188d98@mhgzuft0ykt945w0k^'
